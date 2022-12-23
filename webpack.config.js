@@ -6,8 +6,6 @@ const ManifestVersionSyncPlugin = require('webpack-manifest-version-sync-plugin'
 module.exports = {
   entry: {
     options: './src/options.js',
-    popup: './src/popup.js',
-    content: './src/content.js',
     background: './src/background.js',
     panel: './src/panel.js',
   },
@@ -38,6 +36,10 @@ module.exports = {
         test: /\.svg$/,
         use: ['@svgr/webpack'],
       },
+      {
+        test: /\.scss$/i,
+        use: ['style-loader', 'css-loader', 'sass-loader'],
+      },
     ],
   },
   plugins: [
@@ -46,23 +48,21 @@ module.exports = {
       filename: 'options.html',
       title: 'Options page title',
     }),
-    new HTMLPlugin({
-      chunks: ['popup'],
-      filename: 'popup.html',
-    }),
 
     new HTMLPlugin({
       chunks: ['panel'],
       filename: 'panel.html',
     }),
 
-    new CopyPlugin([
-      { from: './src/_locales/', to: './_locales' },
-      { from: './src/assets', to: './assets' },
-      { from: './src/manifest.json', to: './manifest.json' },
-      { from: './src/*.html', to: './', flatten: true },
-      { from: './src/devtools.js', to: './devtools.js'},
-    ]),
+    new CopyPlugin({
+      patterns: [
+        { from: './src/_locales/', to: './_locales' },
+        { from: './src/assets', to: './assets' },
+        { from: './src/manifest.json', to: './manifest.json' },
+        { from: './src/*.html', to: './'},
+        { from: './src/devtools.js', to: './devtools.js' },
+      ]
+    }),
     new ManifestVersionSyncPlugin(),
   ],
   optimization: {

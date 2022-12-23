@@ -1,0 +1,17 @@
+.tooltip {
+    max-width: 50%;
+    border: 1px solid #000;
+    position: absolute;
+    z-index: 1;
+    word-wrap: break-word;
+    background-color: beige;
+}
+
+.side-panel {
+    resize: horizontal;
+    overflow: auto;
+    max-width: 100%;
+    min-width: 0;
+    background-color: antiquewhite;
+    position: absolute;
+}

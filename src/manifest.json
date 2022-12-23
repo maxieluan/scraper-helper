@@ -11,16 +11,7 @@
   "background": {
     "service_worker": "background.js"
   },
-  "action": {
-    "default_popup": "popup.html"
-  },
-  "content_scripts": [
-    {
-      "all_frames": false,
-      "matches": ["http://*/*", "https://*/*"],
-      "js": ["content.js"]
-    }
-  ],
+  
   "icons": {
     "16": "assets/img/icon-16x16.png",
     "48": "assets/img/icon-48x48.png",
