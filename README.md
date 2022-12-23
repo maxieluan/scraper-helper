@@ -1,4 +1,7 @@
 ## 开发笔记
+
+基于https://github.com/maxieluan/react-browser-extension-boilerplate，但有若干改动。后续会同步过去。
+
 ### 2022-12-23 第一版
 #### 一堆问题:
 1. 性能问题，不能把extension当作一般的web应用，浏览器会给extension非常大的性能限制。
