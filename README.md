@@ -1,4 +1,7 @@
 ## 开发笔记
+
+基于[react-browser-extension-boilerplate](https://github.com/maxieluan/react-browser-extension-boilerplate)，但有若干改动。后续会同步过去。
+
 ### 2022-12-23 第一版
 #### 一堆问题:
 1. 性能问题，不能把extension当作一般的web应用，浏览器会给extension非常大的性能限制。
@@ -34,3 +37,4 @@ window.getComputedStyle(document.getElementById("sidepanel")).getPropertyValue("
 2. 测试某个模块
 直接在脚本里run是不行的，会闹说：“不能在module外import”之类的鬼话
 所以在jest里run比较好，也可以正常输出log
+3. 
