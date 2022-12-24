@@ -66,7 +66,7 @@ module.exports = {
     new ManifestVersionSyncPlugin(),
   ],
   optimization: {
-    minimize: true,
+    minimize: false,
   },
   mode: 'production',
   stats: 'minimal',

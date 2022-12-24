@@ -18,8 +18,6 @@ ul {
 }
 
 .side-panel {
-  
-
   button.close {
     position: absolute;
     top: 0;
@@ -28,10 +26,30 @@ ul {
   }
 
   resize: horizontal;
-  overflow: hidden;
+  overflow-y: scroll;
+  scrollbar-width: 0;
   max-width: 100%;
   min-width: 0;
   background-color: antiquewhite;
   position: absolute;
   z-index: 1;
+}
+
+.generated-code {
+  button.close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+  }
+  overflow-y: scroll;
+  word-wrap: break-word;
+  background-color: cadetblue;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 80%;
+  z-index: 4;
 }

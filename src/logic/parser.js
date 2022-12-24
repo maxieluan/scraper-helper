@@ -8,15 +8,7 @@ export default class Parser {
             cookie: {
                 present: false,
                 value: [
-                    {
-                        "name": "",
-                        "value": "",
-                        path: "",
-                        domain: "",
-                        expires: "",
-                        httpOnly: false,
-                        secure: false,
-                    }
+                    
                 ]
             },
             token: {
@@ -36,7 +28,7 @@ export default class Parser {
         const cookies = "$.request.cookies"
 
         // get url
-        obj.url = jsonpath.query(requestObject, urlpath)[0];
+        obj.url =  jsonpath.query(requestObject, urlpath)[0];
 
         // get headers
         var headersJson = jsonpath.query(requestObject, headers)[0];

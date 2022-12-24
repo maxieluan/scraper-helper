@@ -49,6 +49,7 @@
     "styled-components": "^5.3.6",
     "styled-system": "^5.1.2",
     "use-click-outside": "^2.0.0",
-    "webextension-polyfill": "^0.10.0"
+    "webextension-polyfill": "^0.10.0",
+    "xmldom": "^0.6.0"
   }
 }
