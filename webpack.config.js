@@ -38,7 +38,7 @@ module.exports = {
       },
       {
         test: /\.scss$/i,
-        use: ['style-loader', 'css-loader', 'sass-loader'],
+        use: ['style-loader', 'css-loader', 'sass-loader', ],
       },
     ],
   },
@@ -59,7 +59,7 @@ module.exports = {
         { from: './src/_locales/', to: './_locales' },
         { from: './src/assets', to: './assets' },
         { from: './src/manifest.json', to: './manifest.json' },
-        { from: './src/*.html', to: './'},
+        { from: './src/*.html', to: './[name][ext]' },
         { from: './src/devtools.js', to: './devtools.js' },
       ]
     }),

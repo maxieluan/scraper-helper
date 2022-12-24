@@ -17,3 +17,20 @@
 
 #### roadmap
 先用preact把第一版功能做出来。然后再考虑用其他的库重构。
+
+### feature:
+* 可选语言，用模板吧，mustache
+* 可识别cookie，在request中标记，并在生成代码中加入setCookie选项
+* 可识别token，在request中标记，并在生成代码中加入bear选项 __todo__
+* refresh token?  __todo__
+* 登录和跳转 __todo__
+
+### 2022-12-24 第二版
+#### 一堆问题:
+1. css不会自动apply到动态生成的dom上，需要手动apply
+```
+window.getComputedStyle(document.getElementById("sidepanel")).getPropertyValue("width")
+```
+2. 测试某个模块
+直接在脚本里run是不行的，会闹说：“不能在module外import”之类的鬼话
+所以在jest里run比较好，也可以正常输出log

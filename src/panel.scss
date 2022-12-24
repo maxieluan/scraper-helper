@@ -1,17 +1,37 @@
 .tooltip {
-    max-width: 50%;
-    border: 1px solid #000;
-    position: absolute;
-    z-index: 1;
-    word-wrap: break-word;
-    background-color: beige;
+  max-width: 50%;
+  border: 1px solid #000;
+  position: absolute;
+  z-index: 3;
+  word-wrap: break-word;
+  background-color: beige;
+}
+
+ul {
+  list-style: none;
+
+  li {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
 }
 
 .side-panel {
-    resize: horizontal;
-    overflow: auto;
-    max-width: 100%;
-    min-width: 0;
-    background-color: antiquewhite;
+  
+
+  button.close {
     position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+  }
+
+  resize: horizontal;
+  overflow: hidden;
+  max-width: 100%;
+  min-width: 0;
+  background-color: antiquewhite;
+  position: absolute;
+  z-index: 1;
 }

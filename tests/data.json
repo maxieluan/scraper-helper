@@ -1,0 +1,1402 @@
+[
+    {
+        "_initiator": {
+            "type": "script",
+            "stack": {
+                "callFrames": [
+                    {
+                        "functionName": "kc",
+                        "scriptId": "6114",
+                        "url": "https://www.googletagmanager.com/gtag/js?id=G-B3VTSE8HXJ&l=dataLayer&cx=c",
+                        "lineNumber": 50,
+                        "columnNumber": 491
+                    },
+                    {
+                        "functionName": "bA",
+                        "scriptId": "6114",
+                        "url": "https://www.googletagmanager.com/gtag/js?id=G-B3VTSE8HXJ&l=dataLayer&cx=c",
+                        "lineNumber": 372,
+                        "columnNumber": 345
+                    },
+                    {
+                        "functionName": "cA",
+                        "scriptId": "6114",
+                        "url": "https://www.googletagmanager.com/gtag/js?id=G-B3VTSE8HXJ&l=dataLayer&cx=c",
+                        "lineNumber": 368,
+                        "columnNumber": 106
+                    },
+                    {
+                        "functionName": "fA.flush",
+                        "scriptId": "6114",
+                        "url": "https://www.googletagmanager.com/gtag/js?id=G-B3VTSE8HXJ&l=dataLayer&cx=c",
+                        "lineNumber": 372,
+                        "columnNumber": 20
+                    },
+                    {
+                        "functionName": "",
+                        "scriptId": "6114",
+                        "url": "https://www.googletagmanager.com/gtag/js?id=G-B3VTSE8HXJ&l=dataLayer&cx=c",
+                        "lineNumber": 370,
+                        "columnNumber": 718
+                    }
+                ]
+            }
+        },
+        "_priority": "VeryLow",
+        "_resourceType": "ping",
+        "cache": {},
+        "connection": "220995",
+        "request": {
+            "method": "POST",
+            "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-B3VTSE8HXJ&gtm=2oebu0&_p=401453820&cid=1550872251.1668116874&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B8.0.0.0%7CChromium%3B108.0.5359.125%7CMicrosoft%2520Edge%3B108.0.1462.54&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&dl=http%3A%2F%2Fminesweeper.online%2F&sid=1671738283&sct=76&seg=1&dt=Minesweeper%20Online&en=page_view&_ee=1&ep.page_path=%2F&_et=2",
+            "httpVersion": "http/2.0",
+            "headers": [
+                {
+                    "name": ":authority",
+                    "value": "www.google-analytics.com"
+                },
+                {
+                    "name": ":method",
+                    "value": "POST"
+                },
+                {
+                    "name": ":path",
+                    "value": "/g/collect?v=2&tid=G-B3VTSE8HXJ&gtm=2oebu0&_p=401453820&cid=1550872251.1668116874&ul=en-us&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253FA_Brand%3B8.0.0.0%7CChromium%3B108.0.5359.125%7CMicrosoft%2520Edge%3B108.0.1462.54&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&dl=http%3A%2F%2Fminesweeper.online%2F&sid=1671738283&sct=76&seg=1&dt=Minesweeper%20Online&en=page_view&_ee=1&ep.page_path=%2F&_et=2"
+                },
+                {
+                    "name": ":scheme",
+                    "value": "https"
+                },
+                {
+                    "name": "accept",
+                    "value": "*/*"
+                },
+                {
+                    "name": "accept-encoding",
+                    "value": "gzip, deflate, br"
+                },
+                {
+                    "name": "accept-language",
+                    "value": "en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6"
+                },
+                {
+                    "name": "content-length",
+                    "value": "0"
+                },
+                {
+                    "name": "dnt",
+                    "value": "1"
+                },
+                {
+                    "name": "origin",
+                    "value": "https://minesweeper.online"
+                },
+                {
+                    "name": "referer",
+                    "value": "https://minesweeper.online/"
+                },
+                {
+                    "name": "sec-ch-ua",
+                    "value": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Microsoft Edge\";v=\"108\""
+                },
+                {
+                    "name": "sec-ch-ua-mobile",
+                    "value": "?0"
+                },
+                {
+                    "name": "sec-ch-ua-platform",
+                    "value": "\"Windows\""
+                },
+                {
+                    "name": "sec-fetch-dest",
+                    "value": "empty"
+                },
+                {
+                    "name": "sec-fetch-mode",
+                    "value": "no-cors"
+                },
+                {
+                    "name": "sec-fetch-site",
+                    "value": "cross-site"
+                },
+                {
+                    "name": "user-agent",
+                    "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+                }
+            ],
+            "queryString": [
+                {
+                    "name": "v",
+                    "value": "2"
+                },
+                {
+                    "name": "tid",
+                    "value": "G-B3VTSE8HXJ"
+                },
+                {
+                    "name": "gtm",
+                    "value": "2oebu0"
+                },
+                {
+                    "name": "_p",
+                    "value": "401453820"
+                },
+                {
+                    "name": "cid",
+                    "value": "1550872251.1668116874"
+                },
+                {
+                    "name": "ul",
+                    "value": "en-us"
+                },
+                {
+                    "name": "sr",
+                    "value": "1920x1080"
+                },
+                {
+                    "name": "uaa",
+                    "value": "x86"
+                },
+                {
+                    "name": "uab",
+                    "value": "64"
+                },
+                {
+                    "name": "uafvl",
+                    "value": "Not%253FA_Brand%3B8.0.0.0%7CChromium%3B108.0.5359.125%7CMicrosoft%2520Edge%3B108.0.1462.54"
+                },
+                {
+                    "name": "uamb",
+                    "value": "0"
+                },
+                {
+                    "name": "uam",
+                    "value": ""
+                },
+                {
+                    "name": "uap",
+                    "value": "Windows"
+                },
+                {
+                    "name": "uapv",
+                    "value": "15.0.0"
+                },
+                {
+                    "name": "uaw",
+                    "value": "0"
+                },
+                {
+                    "name": "_s",
+                    "value": "1"
+                },
+                {
+                    "name": "dl",
+                    "value": "http%3A%2F%2Fminesweeper.online%2F"
+                },
+                {
+                    "name": "sid",
+                    "value": "1671738283"
+                },
+                {
+                    "name": "sct",
+                    "value": "76"
+                },
+                {
+                    "name": "seg",
+                    "value": "1"
+                },
+                {
+                    "name": "dt",
+                    "value": "Minesweeper%20Online"
+                },
+                {
+                    "name": "en",
+                    "value": "page_view"
+                },
+                {
+                    "name": "_ee",
+                    "value": "1"
+                },
+                {
+                    "name": "ep.page_path",
+                    "value": "%2F"
+                },
+                {
+                    "name": "_et",
+                    "value": "2"
+                }
+            ],
+            "cookies": [],
+            "headersSize": -1,
+            "bodySize": 0
+        },
+        "response": {
+            "status": 204,
+            "statusText": "No Content",
+            "httpVersion": "http/2.0",
+            "headers": [
+                {
+                    "name": "access-control-allow-credentials",
+                    "value": "true"
+                },
+                {
+                    "name": "access-control-allow-origin",
+                    "value": "https://minesweeper.online"
+                },
+                {
+                    "name": "alt-svc",
+                    "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+                },
+                {
+                    "name": "cache-control",
+                    "value": "no-cache, no-store, must-revalidate"
+                },
+                {
+                    "name": "content-length",
+                    "value": "0"
+                },
+                {
+                    "name": "content-type",
+                    "value": "text/plain"
+                },
+                {
+                    "name": "cross-origin-resource-policy",
+                    "value": "cross-origin"
+                },
+                {
+                    "name": "date",
+                    "value": "Thu, 22 Dec 2022 19:52:52 GMT"
+                },
+                {
+                    "name": "expires",
+                    "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+                },
+                {
+                    "name": "pragma",
+                    "value": "no-cache"
+                },
+                {
+                    "name": "server",
+                    "value": "Golfe2"
+                }
+            ],
+            "cookies": [],
+            "content": {
+                "size": 0,
+                "mimeType": "text/plain"
+            },
+            "redirectURL": "",
+            "headersSize": -1,
+            "bodySize": -1,
+            "_transferSize": 56,
+            "_error": null
+        },
+        "serverIPAddress": "[::1]",
+        "startedDateTime": "2022-12-22T19:52:51.934Z",
+        "time": 189.20799999614246,
+        "timings": {
+            "blocked": 3.953999990630895,
+            "dns": -1,
+            "ssl": -1,
+            "connect": -1,
+            "send": 0.08899999999999997,
+            "wait": 183.59000000346265,
+            "receive": 1.5750000020489097,
+            "_blocked_queueing": 2.314999990630895
+        }
+    },
+    {
+        "_initiator": {
+            "type": "script",
+            "stack": {
+                "callFrames": [],
+                "parent": {
+                    "description": "Image",
+                    "callFrames": [
+                        {
+                            "functionName": "q",
+                            "scriptId": "253",
+                            "url": "https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html",
+                            "lineNumber": 5,
+                            "columnNumber": 446
+                        }
+                    ],
+                    "parent": {
+                        "description": "load",
+                        "callFrames": [
+                            {
+                                "functionName": "addEventListener",
+                                "scriptId": "234",
+                                "url": "",
+                                "lineNumber": 0,
+                                "columnNumber": 1012
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "253",
+                                "url": "https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html",
+                                "lineNumber": 5,
+                                "columnNumber": 563
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "253",
+                                "url": "https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html",
+                                "lineNumber": 5,
+                                "columnNumber": 614
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "_priority": "Low",
+        "_resourceType": "image",
+        "cache": {},
+        "request": {
+            "method": "GET",
+            "url": "https://cs.chocolateplatform.com/pub?pid=ebda&google_gid=CAESEBqc5xheM0nDyqSHebnPoxo&google_cver=1&google_push=AavPq0NrOBDUdQ07zZCTd1h5fC2bKp0ZSUdWqs-Mm-tfFZLpj-7g5pCKmYL02QvaytAq04ju9KODRBYB4xYROltrOor6fmNXCH58uw",
+            "httpVersion": "",
+            "headers": [
+                {
+                    "name": "sec-ch-ua",
+                    "value": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Microsoft Edge\";v=\"108\""
+                },
+                {
+                    "name": "Referer",
+                    "value": "https://pagead2.googlesyndication.com/"
+                },
+                {
+                    "name": "DNT",
+                    "value": "1"
+                },
+                {
+                    "name": "sec-ch-ua-mobile",
+                    "value": "?0"
+                },
+                {
+                    "name": "User-Agent",
+                    "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+                },
+                {
+                    "name": "sec-ch-ua-platform",
+                    "value": "\"Windows\""
+                }
+            ],
+            "queryString": [
+                {
+                    "name": "pid",
+                    "value": "ebda"
+                },
+                {
+                    "name": "google_gid",
+                    "value": "CAESEBqc5xheM0nDyqSHebnPoxo"
+                },
+                {
+                    "name": "google_cver",
+                    "value": "1"
+                },
+                {
+                    "name": "google_push",
+                    "value": "AavPq0NrOBDUdQ07zZCTd1h5fC2bKp0ZSUdWqs-Mm-tfFZLpj-7g5pCKmYL02QvaytAq04ju9KODRBYB4xYROltrOor6fmNXCH58uw"
+                }
+            ],
+            "cookies": [],
+            "headersSize": -1,
+            "bodySize": 0
+        },
+        "response": {
+            "status": 0,
+            "statusText": "",
+            "httpVersion": "",
+            "headers": [],
+            "cookies": [],
+            "content": {
+                "size": 0,
+                "mimeType": "x-unknown"
+            },
+            "redirectURL": "",
+            "headersSize": -1,
+            "bodySize": -1,
+            "_transferSize": 0,
+            "_error": "net::ERR_CONNECTION_CLOSED"
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2022-12-22T19:52:47.778Z",
+        "time": 6176.456999994116,
+        "timings": {
+            "blocked": 6176.456999994116,
+            "dns": -1,
+            "ssl": -1,
+            "connect": -1,
+            "send": 0,
+            "wait": 0,
+            "receive": 0,
+            "_blocked_queueing": -1
+        }
+    },
+    {
+        "_initiator": {
+            "type": "script",
+            "stack": {
+                "callFrames": [],
+                "parent": {
+                    "description": "Image",
+                    "callFrames": [
+                        {
+                            "functionName": "q",
+                            "scriptId": "297",
+                            "url": "https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html",
+                            "lineNumber": 5,
+                            "columnNumber": 446
+                        }
+                    ],
+                    "parent": {
+                        "description": "load",
+                        "callFrames": [
+                            {
+                                "functionName": "addEventListener",
+                                "scriptId": "278",
+                                "url": "",
+                                "lineNumber": 0,
+                                "columnNumber": 1012
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "297",
+                                "url": "https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html",
+                                "lineNumber": 5,
+                                "columnNumber": 563
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "297",
+                                "url": "https://pagead2.googlesyndication.com/pagead/s/cookie_push_onload.html",
+                                "lineNumber": 5,
+                                "columnNumber": 614
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "_priority": "Low",
+        "_resourceType": "image",
+        "cache": {},
+        "request": {
+            "method": "GET",
+            "url": "https://cs.chocolateplatform.com/pub?pid=ebda&google_gid=CAESEBqc5xheM0nDyqSHebnPoxo&google_cver=1&google_push=AavPq0NSOQyfV2nuxHsZYc_TlD9HGIfzwCDAaJ-VJs_txJVduVtjCsm6mIlObviuUxtIB8KFFQ3S1H17jwUpJ7jdb23gvQAqlfuwwfbE",
+            "httpVersion": "",
+            "headers": [
+                {
+                    "name": "sec-ch-ua",
+                    "value": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Microsoft Edge\";v=\"108\""
+                },
+                {
+                    "name": "Referer",
+                    "value": "https://pagead2.googlesyndication.com/"
+                },
+                {
+                    "name": "DNT",
+                    "value": "1"
+                },
+                {
+                    "name": "sec-ch-ua-mobile",
+                    "value": "?0"
+                },
+                {
+                    "name": "User-Agent",
+                    "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+                },
+                {
+                    "name": "sec-ch-ua-platform",
+                    "value": "\"Windows\""
+                }
+            ],
+            "queryString": [
+                {
+                    "name": "pid",
+                    "value": "ebda"
+                },
+                {
+                    "name": "google_gid",
+                    "value": "CAESEBqc5xheM0nDyqSHebnPoxo"
+                },
+                {
+                    "name": "google_cver",
+                    "value": "1"
+                },
+                {
+                    "name": "google_push",
+                    "value": "AavPq0NSOQyfV2nuxHsZYc_TlD9HGIfzwCDAaJ-VJs_txJVduVtjCsm6mIlObviuUxtIB8KFFQ3S1H17jwUpJ7jdb23gvQAqlfuwwfbE"
+                }
+            ],
+            "cookies": [],
+            "headersSize": -1,
+            "bodySize": 0
+        },
+        "response": {
+            "status": 0,
+            "statusText": "",
+            "httpVersion": "",
+            "headers": [],
+            "cookies": [],
+            "content": {
+                "size": 0,
+                "mimeType": "x-unknown"
+            },
+            "redirectURL": "",
+            "headersSize": -1,
+            "bodySize": -1,
+            "_transferSize": 0,
+            "_error": "net::ERR_CONNECTION_CLOSED"
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2022-12-22T19:52:48.468Z",
+        "time": 6207.775000002584,
+        "timings": {
+            "blocked": 6207.775000002584,
+            "dns": -1,
+            "ssl": -1,
+            "connect": -1,
+            "send": 0,
+            "wait": 0,
+            "receive": 0,
+            "_blocked_queueing": -1
+        }
+    },
+    {
+        "_initiator": {
+            "type": "script",
+            "stack": {
+                "callFrames": [],
+                "parent": {
+                    "description": "Image",
+                    "callFrames": [
+                        {
+                            "functionName": "W",
+                            "scriptId": "57",
+                            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                            "lineNumber": 14,
+                            "columnNumber": 458
+                        },
+                        {
+                            "functionName": "C",
+                            "scriptId": "57",
+                            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                            "lineNumber": 17,
+                            "columnNumber": 88
+                        },
+                        {
+                            "functionName": "",
+                            "scriptId": "57",
+                            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                            "lineNumber": 17,
+                            "columnNumber": 429
+                        }
+                    ],
+                    "parent": {
+                        "description": "setTimeout",
+                        "callFrames": [
+                            {
+                                "functionName": "D",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 17,
+                                "columnNumber": 407
+                            },
+                            {
+                                "functionName": "E",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 17,
+                                "columnNumber": 581
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 19,
+                                "columnNumber": 11
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 20,
+                                "columnNumber": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "_priority": "Low",
+        "_resourceType": "image",
+        "cache": {},
+        "connection": "221637",
+        "request": {
+            "method": "GET",
+            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-i2-v6exp3.v4.metric.gstatic.com/v6exp3/6.gif",
+            "httpVersion": "http/2.0",
+            "headers": [
+                {
+                    "name": ":authority",
+                    "value": "p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-i2-v6exp3.v4.metric.gstatic.com"
+                },
+                {
+                    "name": ":method",
+                    "value": "GET"
+                },
+                {
+                    "name": ":path",
+                    "value": "/v6exp3/6.gif"
+                },
+                {
+                    "name": ":scheme",
+                    "value": "https"
+                },
+                {
+                    "name": "accept",
+                    "value": "image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+                },
+                {
+                    "name": "accept-encoding",
+                    "value": "gzip, deflate, br"
+                },
+                {
+                    "name": "accept-language",
+                    "value": "en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6"
+                },
+                {
+                    "name": "cookie",
+                    "value": "1P_JAR=2022-12-02-15"
+                },
+                {
+                    "name": "dnt",
+                    "value": "1"
+                },
+                {
+                    "name": "referer",
+                    "value": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/"
+                },
+                {
+                    "name": "sec-ch-ua",
+                    "value": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Microsoft Edge\";v=\"108\""
+                },
+                {
+                    "name": "sec-ch-ua-mobile",
+                    "value": "?0"
+                },
+                {
+                    "name": "sec-ch-ua-platform",
+                    "value": "\"Windows\""
+                },
+                {
+                    "name": "sec-fetch-dest",
+                    "value": "image"
+                },
+                {
+                    "name": "sec-fetch-mode",
+                    "value": "no-cors"
+                },
+                {
+                    "name": "sec-fetch-site",
+                    "value": "same-site"
+                },
+                {
+                    "name": "user-agent",
+                    "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+                }
+            ],
+            "queryString": [],
+            "cookies": [
+                {
+                    "name": "1P_JAR",
+                    "value": "2022-12-02-15",
+                    "path": "/",
+                    "domain": ".gstatic.com",
+                    "expires": "2023-01-01T15:07:22.235Z",
+                    "httpOnly": false,
+                    "secure": true,
+                    "sameSite": "None"
+                }
+            ],
+            "headersSize": -1,
+            "bodySize": 0
+        },
+        "response": {
+            "status": 200,
+            "statusText": "OK",
+            "httpVersion": "http/2.0",
+            "headers": [
+                {
+                    "name": "accept-ranges",
+                    "value": "bytes"
+                },
+                {
+                    "name": "alt-svc",
+                    "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+                },
+                {
+                    "name": "cache-control",
+                    "value": "no-cache, must-revalidate"
+                },
+                {
+                    "name": "content-length",
+                    "value": "35"
+                },
+                {
+                    "name": "content-type",
+                    "value": "image/gif"
+                },
+                {
+                    "name": "cross-origin-opener-policy-report-only",
+                    "value": "same-origin; report-to=\"static-on-bigtable\""
+                },
+                {
+                    "name": "cross-origin-resource-policy",
+                    "value": "cross-origin"
+                },
+                {
+                    "name": "date",
+                    "value": "Thu, 22 Dec 2022 19:52:58 GMT"
+                },
+                {
+                    "name": "expires",
+                    "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+                },
+                {
+                    "name": "last-modified",
+                    "value": "Thu, 03 Oct 2019 10:15:00 GMT"
+                },
+                {
+                    "name": "pragma",
+                    "value": "no-cache"
+                },
+                {
+                    "name": "report-to",
+                    "value": "{\"group\":\"static-on-bigtable\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/static-on-bigtable\"}]}"
+                },
+                {
+                    "name": "server",
+                    "value": "sffe"
+                },
+                {
+                    "name": "x-content-type-options",
+                    "value": "nosniff"
+                },
+                {
+                    "name": "x-xss-protection",
+                    "value": "0"
+                }
+            ],
+            "cookies": [],
+            "content": {
+                "size": 35,
+                "mimeType": "image/gif"
+            },
+            "redirectURL": "",
+            "headersSize": -1,
+            "bodySize": -1,
+            "_transferSize": 583,
+            "_error": null
+        },
+        "serverIPAddress": "[::1]",
+        "startedDateTime": "2022-12-22T19:52:58.040Z",
+        "time": 219.94100000301842,
+        "timings": {
+            "blocked": 4.648000003420748,
+            "dns": -1,
+            "ssl": 168.675,
+            "connect": 169.161,
+            "send": 0.18799999999998818,
+            "wait": 44.79400000318327,
+            "receive": 1.149999996414408,
+            "_blocked_queueing": 3.148000003420748
+        }
+    },
+    {
+        "_initiator": {
+            "type": "script",
+            "stack": {
+                "callFrames": [],
+                "parent": {
+                    "description": "Image",
+                    "callFrames": [
+                        {
+                            "functionName": "W",
+                            "scriptId": "57",
+                            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                            "lineNumber": 14,
+                            "columnNumber": 458
+                        },
+                        {
+                            "functionName": "C",
+                            "scriptId": "57",
+                            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                            "lineNumber": 17,
+                            "columnNumber": 88
+                        },
+                        {
+                            "functionName": "",
+                            "scriptId": "57",
+                            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                            "lineNumber": 17,
+                            "columnNumber": 429
+                        }
+                    ],
+                    "parent": {
+                        "description": "setTimeout",
+                        "callFrames": [
+                            {
+                                "functionName": "D",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 17,
+                                "columnNumber": 407
+                            },
+                            {
+                                "functionName": "E",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 17,
+                                "columnNumber": 581
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 19,
+                                "columnNumber": 11
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 20,
+                                "columnNumber": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "_priority": "Low",
+        "_resourceType": "image",
+        "cache": {},
+        "connection": "221633",
+        "request": {
+            "method": "GET",
+            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-i1-v6exp3.ds.metric.gstatic.com/v6exp3/6.gif",
+            "httpVersion": "http/2.0",
+            "headers": [
+                {
+                    "name": ":authority",
+                    "value": "p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-i1-v6exp3.ds.metric.gstatic.com"
+                },
+                {
+                    "name": ":method",
+                    "value": "GET"
+                },
+                {
+                    "name": ":path",
+                    "value": "/v6exp3/6.gif"
+                },
+                {
+                    "name": ":scheme",
+                    "value": "https"
+                },
+                {
+                    "name": "accept",
+                    "value": "image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+                },
+                {
+                    "name": "accept-encoding",
+                    "value": "gzip, deflate, br"
+                },
+                {
+                    "name": "accept-language",
+                    "value": "en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6"
+                },
+                {
+                    "name": "cookie",
+                    "value": "1P_JAR=2022-12-02-15"
+                },
+                {
+                    "name": "dnt",
+                    "value": "1"
+                },
+                {
+                    "name": "referer",
+                    "value": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/"
+                },
+                {
+                    "name": "sec-ch-ua",
+                    "value": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Microsoft Edge\";v=\"108\""
+                },
+                {
+                    "name": "sec-ch-ua-mobile",
+                    "value": "?0"
+                },
+                {
+                    "name": "sec-ch-ua-platform",
+                    "value": "\"Windows\""
+                },
+                {
+                    "name": "sec-fetch-dest",
+                    "value": "image"
+                },
+                {
+                    "name": "sec-fetch-mode",
+                    "value": "no-cors"
+                },
+                {
+                    "name": "sec-fetch-site",
+                    "value": "same-site"
+                },
+                {
+                    "name": "user-agent",
+                    "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+                }
+            ],
+            "queryString": [],
+            "cookies": [
+                {
+                    "name": "1P_JAR",
+                    "value": "2022-12-02-15",
+                    "path": "/",
+                    "domain": ".gstatic.com",
+                    "expires": "2023-01-01T15:07:22.235Z",
+                    "httpOnly": false,
+                    "secure": true,
+                    "sameSite": "None"
+                }
+            ],
+            "headersSize": -1,
+            "bodySize": 0
+        },
+        "response": {
+            "status": 200,
+            "statusText": "OK",
+            "httpVersion": "http/2.0",
+            "headers": [
+                {
+                    "name": "accept-ranges",
+                    "value": "bytes"
+                },
+                {
+                    "name": "alt-svc",
+                    "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+                },
+                {
+                    "name": "cache-control",
+                    "value": "no-cache, must-revalidate"
+                },
+                {
+                    "name": "content-length",
+                    "value": "35"
+                },
+                {
+                    "name": "content-type",
+                    "value": "image/gif"
+                },
+                {
+                    "name": "cross-origin-opener-policy-report-only",
+                    "value": "same-origin; report-to=\"static-on-bigtable\""
+                },
+                {
+                    "name": "cross-origin-resource-policy",
+                    "value": "cross-origin"
+                },
+                {
+                    "name": "date",
+                    "value": "Thu, 22 Dec 2022 19:52:58 GMT"
+                },
+                {
+                    "name": "expires",
+                    "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+                },
+                {
+                    "name": "last-modified",
+                    "value": "Thu, 03 Oct 2019 10:15:00 GMT"
+                },
+                {
+                    "name": "pragma",
+                    "value": "no-cache"
+                },
+                {
+                    "name": "report-to",
+                    "value": "{\"group\":\"static-on-bigtable\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/static-on-bigtable\"}]}"
+                },
+                {
+                    "name": "server",
+                    "value": "sffe"
+                },
+                {
+                    "name": "x-content-type-options",
+                    "value": "nosniff"
+                },
+                {
+                    "name": "x-xss-protection",
+                    "value": "0"
+                }
+            ],
+            "cookies": [],
+            "content": {
+                "size": 35,
+                "mimeType": "image/gif"
+            },
+            "redirectURL": "",
+            "headersSize": -1,
+            "bodySize": -1,
+            "_transferSize": 583,
+            "_error": null
+        },
+        "serverIPAddress": "[::1]",
+        "startedDateTime": "2022-12-22T19:52:58.040Z",
+        "time": 257.2470000013709,
+        "timings": {
+            "blocked": 4.640999995306134,
+            "dns": -1,
+            "ssl": 199.58200000000002,
+            "connect": 200.093,
+            "send": 0.18299999999999272,
+            "wait": 51.28299999358785,
+            "receive": 1.0470000124769285,
+            "_blocked_queueing": 3.2099999953061342
+        }
+    },
+    {
+        "_initiator": {
+            "type": "script",
+            "stack": {
+                "callFrames": [],
+                "parent": {
+                    "description": "Image",
+                    "callFrames": [
+                        {
+                            "functionName": "",
+                            "scriptId": "57",
+                            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                            "lineNumber": 17,
+                            "columnNumber": 360
+                        }
+                    ],
+                    "parent": {
+                        "description": "setTimeout",
+                        "callFrames": [
+                            {
+                                "functionName": "C",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 17,
+                                "columnNumber": 99
+                            },
+                            {
+                                "functionName": "",
+                                "scriptId": "57",
+                                "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                "lineNumber": 17,
+                                "columnNumber": 429
+                            }
+                        ],
+                        "parent": {
+                            "description": "setTimeout",
+                            "callFrames": [
+                                {
+                                    "functionName": "D",
+                                    "scriptId": "57",
+                                    "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                    "lineNumber": 17,
+                                    "columnNumber": 407
+                                },
+                                {
+                                    "functionName": "E",
+                                    "scriptId": "57",
+                                    "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                    "lineNumber": 17,
+                                    "columnNumber": 581
+                                },
+                                {
+                                    "functionName": "",
+                                    "scriptId": "57",
+                                    "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                    "lineNumber": 19,
+                                    "columnNumber": 11
+                                },
+                                {
+                                    "functionName": "",
+                                    "scriptId": "57",
+                                    "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/v6exp3/iframe.html",
+                                    "lineNumber": 20,
+                                    "columnNumber": 2
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        },
+        "_priority": "Low",
+        "_resourceType": "image",
+        "cache": {},
+        "connection": "221686",
+        "request": {
+            "method": "GET",
+            "url": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-s1-v6exp3-v4.metric.gstatic.com/gen_204?ipv6exp=3&sentinel=1&ds_img_dt=258&v4_img_dt=221",
+            "httpVersion": "http/2.0",
+            "headers": [
+                {
+                    "name": ":authority",
+                    "value": "p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-s1-v6exp3-v4.metric.gstatic.com"
+                },
+                {
+                    "name": ":method",
+                    "value": "GET"
+                },
+                {
+                    "name": ":path",
+                    "value": "/gen_204?ipv6exp=3&sentinel=1&ds_img_dt=258&v4_img_dt=221"
+                },
+                {
+                    "name": ":scheme",
+                    "value": "https"
+                },
+                {
+                    "name": "accept",
+                    "value": "image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+                },
+                {
+                    "name": "accept-encoding",
+                    "value": "gzip, deflate, br"
+                },
+                {
+                    "name": "accept-language",
+                    "value": "en-US,en;q=0.9,zh-CN;q=0.8,zh-TW;q=0.7,zh;q=0.6"
+                },
+                {
+                    "name": "cookie",
+                    "value": "1P_JAR=2022-12-02-15"
+                },
+                {
+                    "name": "dnt",
+                    "value": "1"
+                },
+                {
+                    "name": "referer",
+                    "value": "https://p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-if-v6exp3-v4.metric.gstatic.com/"
+                },
+                {
+                    "name": "sec-ch-ua",
+                    "value": "\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Microsoft Edge\";v=\"108\""
+                },
+                {
+                    "name": "sec-ch-ua-mobile",
+                    "value": "?0"
+                },
+                {
+                    "name": "sec-ch-ua-platform",
+                    "value": "\"Windows\""
+                },
+                {
+                    "name": "sec-fetch-dest",
+                    "value": "image"
+                },
+                {
+                    "name": "sec-fetch-mode",
+                    "value": "no-cors"
+                },
+                {
+                    "name": "sec-fetch-site",
+                    "value": "same-site"
+                },
+                {
+                    "name": "user-agent",
+                    "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54"
+                }
+            ],
+            "queryString": [
+                {
+                    "name": "ipv6exp",
+                    "value": "3"
+                },
+                {
+                    "name": "sentinel",
+                    "value": "1"
+                },
+                {
+                    "name": "ds_img_dt",
+                    "value": "258"
+                },
+                {
+                    "name": "v4_img_dt",
+                    "value": "221"
+                }
+            ],
+            "cookies": [
+                {
+                    "name": "1P_JAR",
+                    "value": "2022-12-02-15",
+                    "path": "/",
+                    "domain": ".gstatic.com",
+                    "expires": "2023-01-01T15:07:22.235Z",
+                    "httpOnly": false,
+                    "secure": true,
+                    "sameSite": "None"
+                }
+            ],
+            "headersSize": -1,
+            "bodySize": 0
+        },
+        "response": {
+            "status": 204,
+            "statusText": "No Content",
+            "httpVersion": "http/2.0",
+            "headers": [
+                {
+                    "name": "alt-svc",
+                    "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\""
+                },
+                {
+                    "name": "bfcache-opt-in",
+                    "value": "unload"
+                },
+                {
+                    "name": "content-length",
+                    "value": "0"
+                },
+                {
+                    "name": "content-type",
+                    "value": "text/html; charset=UTF-8"
+                },
+                {
+                    "name": "cross-origin-opener-policy-report-only",
+                    "value": "same-origin-allow-popups; report-to=\"gws\""
+                },
+                {
+                    "name": "date",
+                    "value": "Thu, 22 Dec 2022 19:53:28 GMT"
+                },
+                {
+                    "name": "report-to",
+                    "value": "{\"group\":\"gws\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/gws/other\"}]}"
+                },
+                {
+                    "name": "server",
+                    "value": "gws"
+                },
+                {
+                    "name": "set-cookie",
+                    "value": "1P_JAR=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-s1-v6exp3-v4.metric.gstatic.com"
+                },
+                {
+                    "name": "set-cookie",
+                    "value": "1P_JAR=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-s1-v6exp3-v4.metric.gstatic.com"
+                },
+                {
+                    "name": "set-cookie",
+                    "value": "1P_JAR=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=metric.gstatic.com"
+                },
+                {
+                    "name": "set-cookie",
+                    "value": "1P_JAR=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.metric.gstatic.com"
+                },
+                {
+                    "name": "set-cookie",
+                    "value": "1P_JAR=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=gstatic.com"
+                },
+                {
+                    "name": "set-cookie",
+                    "value": "1P_JAR=; expires=Mon, 01-Jan-1990 00:00:00 GMT; path=/; domain=.gstatic.com"
+                },
+                {
+                    "name": "x-frame-options",
+                    "value": "SAMEORIGIN"
+                },
+                {
+                    "name": "x-xss-protection",
+                    "value": "0"
+                }
+            ],
+            "cookies": [
+                {
+                    "name": "1P_JAR",
+                    "value": "",
+                    "path": "/",
+                    "domain": "p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-s1-v6exp3-v4.metric.gstatic.com",
+                    "expires": "1990-01-01T00:00:00.000Z",
+                    "httpOnly": false,
+                    "secure": false
+                },
+                {
+                    "name": "1P_JAR",
+                    "value": "",
+                    "path": "/",
+                    "domain": ".p4-cjzgpcxabzr4a-ocxte3xp2tsafnfg-685540-s1-v6exp3-v4.metric.gstatic.com",
+                    "expires": "1990-01-01T00:00:00.000Z",
+                    "httpOnly": false,
+                    "secure": false
+                },
+                {
+                    "name": "1P_JAR",
+                    "value": "",
+                    "path": "/",
+                    "domain": "metric.gstatic.com",
+                    "expires": "1990-01-01T00:00:00.000Z",
+                    "httpOnly": false,
+                    "secure": false
+                },
+                {
+                    "name": "1P_JAR",
+                    "value": "",
+                    "path": "/",
+                    "domain": ".metric.gstatic.com",
+                    "expires": "1990-01-01T00:00:00.000Z",
+                    "httpOnly": false,
+                    "secure": false
+                },
+                {
+                    "name": "1P_JAR",
+                    "value": "",
+                    "path": "/",
+                    "domain": "gstatic.com",
+                    "expires": "1990-01-01T00:00:00.000Z",
+                    "httpOnly": false,
+                    "secure": false
+                },
+                {
+                    "name": "1P_JAR",
+                    "value": "",
+                    "path": "/",
+                    "domain": ".gstatic.com",
+                    "expires": "1990-01-01T00:00:00.000Z",
+                    "httpOnly": false,
+                    "secure": false
+                }
+            ],
+            "content": {
+                "size": 0,
+                "mimeType": "text/html"
+            },
+            "redirectURL": "",
+            "headersSize": -1,
+            "bodySize": -1,
+            "_transferSize": 876,
+            "_error": null
+        },
+        "serverIPAddress": "[::1]",
+        "startedDateTime": "2022-12-22T19:53:28.046Z",
+        "time": 593.4239999915008,
+        "timings": {
+            "blocked": 3.9879999979017304,
+            "dns": -1,
+            "ssl": 405.64700000000005,
+            "connect": 406.013,
+            "send": 0.20500000000004093,
+            "wait": 181.6850000057686,
+            "receive": 1.532999987830408,
+            "_blocked_queueing": 2.2719999979017302
+        }
+    }
+]
